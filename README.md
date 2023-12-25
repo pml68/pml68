@@ -9,4 +9,5 @@ I don't quite understand why you're looking at my profile, but the only repo I h
 If, for some reason, you **still** want to look at any other project of mine, check out [`Olah-Barbershop`](https://github.com/Olah-Barbershop) (hopefully I have somewhat finished the app and uploaded it by the time you're looking at this)
 
 ## School project
-Currently available on [`lovasij/az_elsok`](https://github.com/lovasij/az_elsok)
+
+The previously mentioned [Oláh Barbershop](https://linktr.ee/olahbarbershop), a non-existent company.
