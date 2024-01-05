@@ -11,3 +11,11 @@ If, for some reason, you **still** want to look at any other project of mine, ch
 ## School project
 
 The previously mentioned [Oláh Barbershop](https://linktr.ee/olahbarbershop), a non-existent company.
+
+<div align="center">
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pml68&theme=dark&background=000000)](https://git.io/streak-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pml68&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
