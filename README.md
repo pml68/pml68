@@ -1,4 +1,4 @@
-# pml68
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/pml68)
 
 I'm a *simple* man with a *simple* goal.
 
@@ -12,9 +12,12 @@ If, for some reason, you **still** want to look at any other project of mine, ch
 
 The previously mentioned [Oláh Barbershop](https://linktr.ee/olahbarbershop), a non-existent company.
 
+## Stats
+
 <div align="center">
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pml68&theme=dark&hide_border=true&date_format=%5BY%20%5DM%20j&hide_longest_streak=true)](https://git.io/streak-stats)
+<br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pml68&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
