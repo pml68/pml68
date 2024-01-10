@@ -15,10 +15,8 @@ The previously mentioned [Oláh Barbershop](https://linktr.ee/olahbarbershop), a
 ## Stats
 
 <div align="center">
+<br>
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pml68&theme=tokyonight&hide_border=true&date_format=%5BY%20%5DM%20j&hide_longest_streak=true)](https://git.io/streak-stats)
-<br>
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pml68&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
