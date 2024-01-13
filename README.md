@@ -16,6 +16,5 @@ I'm a *simple* man with a *simple* goal.
 <div align="center">
 <br>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pml68&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Profile views](https://komarev.com/ghpvc/?username=pml68&color=1e1e2e&style=for-the-badge)](https://github.com/pml68)
 </div>
